@@ -17,7 +17,7 @@ Astro Portal is a level based platformer that I made along with 2 peers in iOS A
 Find My EP is a project that I am currently working on with 3 peers. It is meant to be an app that new students or parents can use to navigate through EPHS by entering the starting room and desired destination. We plan on adding more features after creating the base app and getting it on the App Store. This was my primary introduction to SwiftUI and some UIKit. I chose to make this app because I had previous experience with making a game and wanted to see how making a regular app with different components compares to making a game. The biggest difficulties we have faced as a team so far is figuring out the Zoom interaction with the map UI and creating an algorithm that calculates the shorest possible distance given 2 rooms. So far, we have features such as showing the distance from the starting position to the destination and the approximate time it takes to get to your destination.
 
 <p float="left">
-<img width = "321" alt= "Find My EP Home" src="https://user-images.githubusercontent.com/61218888/162236375-e12c4bf6-23b8-4c85-86ef-03f803c683bb.png">
-<img width = "321" alt = "Find My EP Map" src="https://user-images.githubusercontent.com/61218888/162236618-ce64486c-a0e2-425c-a50f-5967d4af0b81.png">
-<img width = "321" alt = "Find My EP Zoom" src="https://user-images.githubusercontent.com/61218888/162236875-c1e418aa-1510-4259-975d-761b99235e04.png">
+<img width = "225" alt= "Find My EP Home" src="https://user-images.githubusercontent.com/61218888/162236375-e12c4bf6-23b8-4c85-86ef-03f803c683bb.png">
+<img width = "225" alt = "Find My EP Map" src="https://user-images.githubusercontent.com/61218888/162236618-ce64486c-a0e2-425c-a50f-5967d4af0b81.png">
+<img width = "225" alt = "Find My EP Zoom" src="https://user-images.githubusercontent.com/61218888/162236875-c1e418aa-1510-4259-975d-761b99235e04.png">
 </p>
