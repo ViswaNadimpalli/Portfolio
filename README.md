@@ -1,6 +1,9 @@
 # Portfolio Introduction
 Hello, my name is Viswa Nadimpalli and this is a portfolio of all the projects I have done so far throughout High School. I have a decent amount of experience with Java, Python, and SwiftUI/SpriteKit, and also minor experience with C and C++.
 
+# [Volcanic Panic](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-idk-name)
+Volcanic Panic was a survival game that I made with a few peers in AP Computer Science A. The objective of the game is to avoid obstacles and survive for the longest time possible and try to beat your locally recorded high score. This was my first experience with creating a small game and I learned that assets are also a crucial part of the game on top of coding. I understood that many components went into making a game and it is actually a very complex process to create even a simple game.
+
 # [Astro Portal](https://github.com/EPHS-iOS/Astro-Portal)
 Astro Portal is a level based platformer that I made along with 2 peers in iOS App Development in 11th grade. It is available on the App Store and made primarily using SpriteKit. We made the artwork for the game using Sketch and Google Drawings and spent a lot of time creating maps for each level and the different obstacles in the game. This was my first actual experience with creating a public game, and I was very happy with how it turned out.
 
