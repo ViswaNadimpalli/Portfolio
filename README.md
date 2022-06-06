@@ -17,7 +17,7 @@ Astro Portal is a level based platformer that I made along with 2 peers in iOS A
 EPHS Maps is a project that I am currently working on with 3 peers. It is meant to be an app that new students or parents can use to navigate through EPHS by entering the starting room and desired destination. It is available on the App Store and it was made using SwiftUI and a little bit of UIKit. I chose to make this app because I had previous experience with making a game and wanted to see how making a regular app with different components compares to making a game. The biggest difficulties we have faced as a team so far is figuring out the Zoom interaction with the map UI and creating an algorithm that calculates the shorest possible distance given 2 rooms. So far, we have features such as showing the distance from the starting position to the destination, the approximate time it takes to get to your destination, switching between floors using buttons, fitting the zoom to show the path, etc. We plan on adding a nearest bathroom and nearest exit feature in the future.
 
 <p float="left">
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 10 12 18](https://user-images.githubusercontent.com/61218888/172195164-c4aaef3c-81de-4966-9fcb-e8c0eda20434.png)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 10 15 35](https://user-images.githubusercontent.com/61218888/172195233-55dfad93-76c6-4c6b-9afd-4073ad4f2b84.png)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 10 15 44](https://user-images.githubusercontent.com/61218888/172195263-3b597eb4-a0e1-429f-9e37-050f179b7cd8.png)
+<img width="841" alt="EPHS Maps Start Screen" src="https://user-images.githubusercontent.com/61218888/172195164-c4aaef3c-81de-4966-9fcb-e8c0eda20434.png">
+<img width="841" alt="EPHS Maps First Floor" src="https://user-images.githubusercontent.com/61218888/172195233-55dfad93-76c6-4c6b-9afd-4073ad4f2b84.png">
+<img width="841" alt="EPHS Maps Third Floor" src="https://user-images.githubusercontent.com/61218888/172195263-3b597eb4-a0e1-429f-9e37-050f179b7cd8.png">
 </p>
