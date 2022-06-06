@@ -13,11 +13,11 @@ Astro Portal is a level based platformer that I made along with 2 peers in iOS A
 <img width="841" alt="Astro Portal" src="https://user-images.githubusercontent.com/61218888/162235346-48856280-57e8-4d04-8980-ed009cf8e082.png">
 
 
-# [Find My EP](https://github.com/sarthyparty/Find-My-EP)
-Find My EP is a project that I am currently working on with 3 peers. It is meant to be an app that new students or parents can use to navigate through EPHS by entering the starting room and desired destination. We plan on adding more features after creating the base app and getting it on the App Store. This was my primary introduction to SwiftUI and some UIKit. I chose to make this app because I had previous experience with making a game and wanted to see how making a regular app with different components compares to making a game. The biggest difficulties we have faced as a team so far is figuring out the Zoom interaction with the map UI and creating an algorithm that calculates the shorest possible distance given 2 rooms. So far, we have features such as showing the distance from the starting position to the destination and the approximate time it takes to get to your destination.
+# [EPHS Maps](https://github.com/sarthyparty/Find-My-EP)
+EPHS Maps is a project that I am currently working on with 3 peers. It is meant to be an app that new students or parents can use to navigate through EPHS by entering the starting room and desired destination. It is available on the App Store and it was made using SwiftUI and a little bit of UIKit. I chose to make this app because I had previous experience with making a game and wanted to see how making a regular app with different components compares to making a game. The biggest difficulties we have faced as a team so far is figuring out the Zoom interaction with the map UI and creating an algorithm that calculates the shorest possible distance given 2 rooms. So far, we have features such as showing the distance from the starting position to the destination, the approximate time it takes to get to your destination, switching between floors using buttons, fitting the zoom to show the path, etc. We plan on adding a nearest bathroom and nearest exit feature in the future.
 
 <p float="left">
-<img width = "270" alt= "Find My EP Home" src="https://user-images.githubusercontent.com/61218888/162236375-e12c4bf6-23b8-4c85-86ef-03f803c683bb.png">
-<img width = "270" alt = "Find My EP Map" src="https://user-images.githubusercontent.com/61218888/162236618-ce64486c-a0e2-425c-a50f-5967d4af0b81.png">
-<img width = "270" alt = "Find My EP Zoom" src="https://user-images.githubusercontent.com/61218888/162236875-c1e418aa-1510-4259-975d-761b99235e04.png">
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 10 12 18](https://user-images.githubusercontent.com/61218888/172195164-c4aaef3c-81de-4966-9fcb-e8c0eda20434.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 10 15 35](https://user-images.githubusercontent.com/61218888/172195233-55dfad93-76c6-4c6b-9afd-4073ad4f2b84.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 10 15 44](https://user-images.githubusercontent.com/61218888/172195263-3b597eb4-a0e1-429f-9e37-050f179b7cd8.png)
 </p>
